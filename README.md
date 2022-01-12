@@ -10,7 +10,8 @@ Recently, there has been an increasing interest in applying attention mechanisms
 
 ## Dependencies
 The project was tested in Python 3 and Tensorflow 2. Run pip install -r requirements.txt to install dependent packages. 
-Parts of the code are based on *['CBAM-TensorFlow'](https://github.com/kobiso/CBAM-tensorflow)*  
+
+Parts of the code are based on *['CBAM-TensorFlow'](https://github.com/kobiso/CBAM-tensorflow)*  with 
 
 ## Running the code:
 To test our approach on ImageNet, run main_imagenet.py. You need to: 
