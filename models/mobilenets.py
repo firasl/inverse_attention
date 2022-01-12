@@ -1,9 +1,5 @@
-"""MobileNet v1 models for Keras.
-This is a revised implementation from Somshubra Majumdar's SENet repo:
-(https://github.com/titu1994/keras-squeeze-excite-network)
-# Reference
-- [MobileNets: Efficient Convolutional Neural Networks for
-   Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf))
+"""
+This is a revised implementation from https://github.com/kobiso/CBAM-keras/blob/master/models/mobilenets.py
 """
 from __future__ import print_function
 from __future__ import absolute_import
