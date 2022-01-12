@@ -1,9 +1,5 @@
 """
-ResNet v1
-This is a revised implementation from Cifar10 ResNet example in Keras:
-(https://github.com/keras-team/keras/blob/master/examples/cifar10_resnet.py)
-[a] Deep Residual Learning for Image Recognition
-https://arxiv.org/pdf/1512.03385.pdf
+This is a revised implementation from https://github.com/kobiso/CBAM-keras/blob/master/models/resnet_v1.py
 """
 
 from __future__ import print_function
