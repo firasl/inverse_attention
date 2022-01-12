@@ -17,7 +17,7 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.regularizers import l2
 from tensorflow.keras import backend as K
 from tensorflow.keras.models import Model
-from models import resnet_v1 , resnet_v2,mobilenets,resnet_model 
+from models import resnet_model 
 
 import numpy as np
 import os
