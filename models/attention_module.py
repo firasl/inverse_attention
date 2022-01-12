@@ -1,5 +1,5 @@
 """
-This is a revised implementation from https://github.com/kobiso/CBAM-keras/blob/master/models/resnet_v1.py
+This is a revised implementation from https://github.com/kobiso/CBAM-keras/blob/master/models/attention_module.py
 """
 from tensorflow.keras.layers import GlobalAveragePooling2D, GlobalMaxPooling2D, Reshape, Dense, multiply, Permute, Concatenate, Conv2D, Add, Activation, Lambda
 from tensorflow.keras import backend as K
