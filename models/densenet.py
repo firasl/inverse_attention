@@ -1,10 +1,6 @@
-'''DenseNet models for Keras.
-This is a revised implementation from Somshubra Majumdar's SENet repo:
-(https://github.com/titu1994/keras-squeeze-excite-network)
-# Reference
-- [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf)
-- [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/pdf/1611.09326.pdf)
-'''
+"""
+This is a revised implementation from https://github.com/kobiso/CBAM-keras/blob/master/models/densenet.py
+"""
 from __future__ import print_function
 from __future__ import absolute_import
 from __future__ import division
