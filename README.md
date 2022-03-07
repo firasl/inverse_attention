@@ -1,5 +1,5 @@
 # inverse_attention
-This repository provides the official implementation of *['Learning to ignore: rethinking attention in CNNs'](https://arxiv.org/abs/2111.05684)*  accepted in *[BMVC 2021](https://www.bmvc2021.com/)*.
+This repository provides the official Tensorflow 2 implementation of *['Learning to ignore: rethinking attention in CNNs'](https://arxiv.org/abs/2111.05684)*  accepted in *[BMVC 2021](https://www.bmvc2021.com/)*.
 
 
 # Learning to ignore: rethinking attention in CNNs
